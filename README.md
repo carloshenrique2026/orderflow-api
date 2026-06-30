@@ -191,7 +191,7 @@ As requisições podem ser testadas utilizando:
 
 ## 👨‍💻 Desenvolvedor
 
-Carlos Henrique da Silva Farias
+Carlos Henrique 
 
 LinkedIn:
 https://linkedin.com/in/carloshenrique2026
