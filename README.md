@@ -6,6 +6,18 @@ A API fornece autenticação de usuários, gerenciamento de produtos, categorias
 
 ---
 
+![Node.js](https://img.shields.io/badge/Node.js-20.x-green)
+
+![Express](https://img.shields.io/badge/Express-5.x-black)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+
+![Stripe](https://img.shields.io/badge/Payments-Stripe-purple)
+
+Backend da plataforma...
+
 ## 📌 Funcionalidades
 
 - ✅ Autenticação JWT
